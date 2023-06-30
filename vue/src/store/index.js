@@ -26,6 +26,7 @@ const store = createStore({
       },
 
     },
+    
       
     mutations   : {
         logout  : (state) => {
